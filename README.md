@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhr7va
-- 👀 I’m interested in learning ReactJS, Pythin, JavaScript, CSS and HTML5
+- 👀 I’m interested in learning ReactJS, Python, JavaScript, CSS and HTML5
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me dhr7va@gmail.com
 - 😄 Pronouns: she/her

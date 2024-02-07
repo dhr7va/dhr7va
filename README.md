@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhr7va
 - 👀 I’m interested in learning ReactJS, Python, JavaScript, CSS and HTML5
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS, JavaScript, CSS, JQuery amongst many other things
 - 📫 How to reach me dhr7va@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a powerlifter
